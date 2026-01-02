@@ -19,7 +19,3 @@
 # SSH keys (never commit)
 *.pem
 *.key
-
-
-
-**/.terraform/

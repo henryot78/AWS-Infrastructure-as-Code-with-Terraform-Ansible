@@ -1,4 +1,3 @@
-  ## Infrastructure as Code with Terraform and Condiguration with Ansible
  ## Overview
 This project demonstrates how to provision and configure AWS infrastructure using a modern Infrastructure as Code (IaC) workflow.
 Instead of manually clicking around the AWS Console, the entire environment is:
